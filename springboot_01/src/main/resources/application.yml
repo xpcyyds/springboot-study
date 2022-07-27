@@ -1,0 +1,15 @@
+server:
+  port: 9999
+
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3307/school?useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT
+    username: root
+    password: 111111
+
+jwtutils:
+  refreshTokenTime: 5
+  tokenExpirationTime: 10
+

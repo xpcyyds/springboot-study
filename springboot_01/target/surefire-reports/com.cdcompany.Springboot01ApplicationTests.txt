@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cdcompany.Springboot01ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.68 s - in com.cdcompany.Springboot01ApplicationTests

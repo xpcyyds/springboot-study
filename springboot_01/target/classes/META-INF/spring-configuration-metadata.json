@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "jwtutils",
+      "type": "com.cdcompany.utils.JWTUtils",
+      "sourceType": "com.cdcompany.utils.JWTUtils"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
